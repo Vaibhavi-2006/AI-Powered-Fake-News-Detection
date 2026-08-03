@@ -10,6 +10,7 @@ Detect fake news using machine learning.
 Preprocess and analyze news text.
 Compare the performance of different ML algorithms.
 Improve the reliability of news classification.
+To train and evaluate the model using the Fake and Real News Dataset obtained from Kaggle.
 
 ## Technologies Used
 Python
